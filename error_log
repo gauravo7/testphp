@@ -1,0 +1,35 @@
+[11-Apr-2024 04:52:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Hello You are hacked')</script>','This is Demo Message 
+<script>alert('Hello Yo' at line 1 in /home4/jankistudent/public_html/gymsecure/contact.php:109
+Stack trace:
+#0 /home4/jankistudent/public_html/gymsecure/contact.php(109): mysqli_query(Object(mysqli), 'insert into `co...')
+#1 {main}
+  thrown in /home4/jankistudent/public_html/gymsecure/contact.php on line 109
+[11-Apr-2024 04:52:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Hello You are hacked')</script>','This is Demo Message 
+<script>alert('Hello Yo' at line 1 in /home4/jankistudent/public_html/gymsecure/contact.php:109
+Stack trace:
+#0 /home4/jankistudent/public_html/gymsecure/contact.php(109): mysqli_query(Object(mysqli), 'insert into `co...')
+#1 {main}
+  thrown in /home4/jankistudent/public_html/gymsecure/contact.php on line 109
+[11-Apr-2024 04:52:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Hello You are hacked')</script>','This is Demo Message 
+<script>alert('Hello Yo' at line 1 in /home4/jankistudent/public_html/gymsecure/contact.php:109
+Stack trace:
+#0 /home4/jankistudent/public_html/gymsecure/contact.php(109): mysqli_query(Object(mysqli), 'insert into `co...')
+#1 {main}
+  thrown in /home4/jankistudent/public_html/gymsecure/contact.php on line 109
+[11-Apr-2024 05:45:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function test_input() in /home4/jankistudent/public_html/gymsecure/contact.php:99
+Stack trace:
+#0 {main}
+  thrown in /home4/jankistudent/public_html/gymsecure/contact.php on line 99
+[11-Apr-2024 05:45:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function test_input() in /home4/jankistudent/public_html/gymsecure/contact.php:99
+Stack trace:
+#0 {main}
+  thrown in /home4/jankistudent/public_html/gymsecure/contact.php on line 99
+[11-Apr-2024 05:46:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function test_input() in /home4/jankistudent/public_html/gymsecure/contact.php:99
+Stack trace:
+#0 {main}
+  thrown in /home4/jankistudent/public_html/gymsecure/contact.php on line 99
+[11-Apr-2024 05:46:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function test_input() in /home4/jankistudent/public_html/gymsecure/contact.php:99
+Stack trace:
+#0 {main}
+  thrown in /home4/jankistudent/public_html/gymsecure/contact.php on line 99
+[10-Jun-2024 11:31:38 UTC] PHP Parse error:  syntax error, unexpected token "=", expecting ")" in /home4/jankistudent/public_html/gymsecure/study.php on line 5
